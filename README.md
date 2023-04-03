@@ -1,7 +1,7 @@
 # Calculadora em Go
 Este é um exemplo de uma calculadora simples escrita em Go.
 
-**Como usar**
+**Como usar :**
 
 Para usar esta calculadora, siga as instruções abaixo:
 
@@ -28,7 +28,7 @@ go build calculadora.go
 
 8. O resultado da operação será exibido na tela.
 
-**Requisitos**
+**Requisitos :**
 
 Para executar esta calculadora, você precisa ter o Go instalado em sua máquina. Se você ainda não tiver o Go instalado, você pode baixá-lo e instalá-lo a partir do site oficial: https://golang.org/dl/
 
